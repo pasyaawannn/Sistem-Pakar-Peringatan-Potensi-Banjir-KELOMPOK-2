@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pakar Peringatan Potensi Banjir",
+  "description": "Sistem pakar berbasis rule (Forward Chaining) untuk memprediksi potensi banjir dari parameter hidrologi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
